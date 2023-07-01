@@ -1,0 +1,21 @@
+.carousel-inner {
+  width: 100%;
+  height: 500px;
+}
+.carousel-item img {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+  border-radius: 50px;
+}
+.row-berita {
+  height: 250px;
+}
+.articles-img img {
+  height: 260px;
+  object-fit: cover;
+  border-radius: 50px 0 0 50px;
+}
+.articles-p {
+  text-align: justify;
+}
